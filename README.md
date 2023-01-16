@@ -6,7 +6,7 @@
 
 | 資格 | スコア |
 | :---: | :---: |
-| CLF |  825 |
+| [CLF](#clf-2023年1月14日取得) |  825 |
 
 ### CLF (2023年1月14日取得)
 [バッジ](https://www.credly.com/badges/dff9dcb0-4448-4827-bb3b-3d11e9730721/public_url)
