@@ -9,6 +9,6 @@
 | [CLF](#clf-2023年1月14日取得) |  825 |
 
 ### CLF (2023年1月14日取得)
-![image](https://github.com/Shintaro-Abe/Shintaro-Abe/blob/a4c138a7305bff0f51f429c5fc3fda83d58f5251/aws-certified-cloud-practitioner.png)   [バッジ](https://www.credly.com/badges/dff9dcb0-4448-4827-bb3b-3d11e9730721/public_url)
+[バッジ](https://www.credly.com/badges/dff9dcb0-4448-4827-bb3b-3d11e9730721/public_url)
 
 [証明書](https://github.com/Shintaro-Abe/Shintaro-Abe/blob/923965fbb50e06533e9a767b3a2f9fa5f450abc6/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
