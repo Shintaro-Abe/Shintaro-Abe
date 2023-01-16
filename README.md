@@ -1,14 +1,14 @@
 # profile
 
-# 取得資格
+## 取得資格
 
-## AWS認定
+### AWS認定
 
 | 資格 | スコア |
 | :---: | :---: |
 | [CLF](#clf-2023年1月14日取得) |  825 |
 
-### CLF (2023年1月14日取得)
+#### CLF (2023年1月14日取得)
 
 ![image](https://github.com/Shintaro-Abe/Shintaro-Abe/blob/8672bc1a78ff1b57f738843322a6d0bc0bd76115/aws-certified-cloud-practitioner%20.png)         
 
