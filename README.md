@@ -20,4 +20,8 @@
 
 #### SAA (2023年2月4日取得)
 
-[バッジ](https://www.credly.com/badges/acd6ba7b-aa72-47d0-b553-52f6713a455d/public_url)   
+![image](https://github.com/Shintaro-Abe/Shintaro-Abe/blob/8bb3ab7c86e2c4f3e33801f89a8c651390cc8def/aws-certified-solutions-architect-associate.png)
+
+[バッジ](https://www.credly.com/badges/acd6ba7b-aa72-47d0-b553-52f6713a455d/public_url) 
+
+[証明書](https://github.com/Shintaro-Abe/Shintaro-Abe/blob/8bb3ab7c86e2c4f3e33801f89a8c651390cc8def/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
