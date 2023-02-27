@@ -30,8 +30,8 @@
 
 #### DVA (2023年2月27日取得)
 
-![image](https://github.com/Shintaro-Abe/Shintaro-Abe/blob/8bb3ab7c86e2c4f3e33801f89a8c651390cc8def/aws-certified-solutions-architect-associate.png)
+![image](https://github.com/Shintaro-Abe/Shintaro-Abe/blob/3d434e7f1217a132ca39b3aee7fd1df50c7defa7/aws-certified-developer-associate.png)
 
-[バッジ](https://www.credly.com/badges/acd6ba7b-aa72-47d0-b553-52f6713a455d/public_url) 
+[バッジ](https://www.credly.com/badges/0a5c704d-f923-438b-8e24-dbb55b816121/public_url) 
 
-[証明書](https://github.com/Shintaro-Abe/Shintaro-Abe/blob/8bb3ab7c86e2c4f3e33801f89a8c651390cc8def/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
+[証明書](https://github.com/Shintaro-Abe/Shintaro-Abe/blob/3d434e7f1217a132ca39b3aee7fd1df50c7defa7/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf)
