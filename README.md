@@ -9,11 +9,21 @@
       <td align="left">阿部　慎太郎</td>
     </tr>
     <tr>
+      <td align="left">居住地</td>
+      <td align="left">東京都</td>
+    </tr>    
+    <tr>
+      <td align="left">最終学歴</td>
+      <td align="left">国立音楽大学音楽学部音楽教育学科</td>
+    </tr> 
+    <tr>
       <td align="left">技術記事</td>
       <td align="left"><a href="https://zenn.dev/lifewithpiano">Zenn</a></td>
     </tr>
   </tbody>
 </table>
+
+AWSをメインに学習中。
 
 ## 職務履歴書
 
@@ -41,22 +51,22 @@
     <tr>
       <td align="left">Cloud Practitioner</td>
       <td align="left">2023年1月14日</td>
-      <td align="left"><a href="https://github.com/Shintaro-Abe/curriculum-vitae/blob/9f77e588411b462f7747c91992d12ae8eff38ae6/AWScertificate/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf">PDF</a></td>
+      <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/b22763b998f501a96f87238974d24079ff092a1a/certificates/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf">PDF</a></td>
     </tr>
     <tr>
       <td align="left">Solutions Architect Associate</td>
       <td align="left">2023年2月4日</td>
-      <td align="left"><a href="https://github.com/Shintaro-Abe/curriculum-vitae/blob/750297fc09bf6af0445311232e5a00755c7344f2/AWScertificate/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf">PDF</a></td>
+      <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/b22763b998f501a96f87238974d24079ff092a1a/certificates/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf">PDF</a></td>
     </tr>
     <tr>
       <td align="left">Developer Associate</td>
       <td align="left">2023年2月27日</td>
-      <td align="left"><a href="https://github.com/Shintaro-Abe/curriculum-vitae/blob/750297fc09bf6af0445311232e5a00755c7344f2/AWScertificate/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf">PDF</a></td>
+      <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/b22763b998f501a96f87238974d24079ff092a1a/certificates/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf">PDF</a></td>
     </tr>    
     <tr>
       <td align="left">SysOps Administrator Associate</td>
       <td align="left">2023年3月11日</td>
-      <td align="left"><a href="https://github.com/Shintaro-Abe/curriculum-vitae/blob/750297fc09bf6af0445311232e5a00755c7344f2/AWScertificate/AWS%20Certified%20SysOps%20Administrator%20-%20Associate%20certificate.pdf">PDF</a></td>
+      <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/b22763b998f501a96f87238974d24079ff092a1a/certificates/AWS%20Certified%20SysOps%20Administrator%20-%20Associate%20certificate.pdf">PDF</a></td>
     </tr> 
   </tbody>
 </table>
