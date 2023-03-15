@@ -30,9 +30,9 @@ AWSをメインに学習中。
 <table>
   <tbody>
     <tr>
-      <td align="left"><a href="https://shintaro-abe.github.io/Shintaro-Abe/"　target="_blank" rel="noopener noreferrer">GitHub Pages</a></td>
-			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/4402947f28d59d60b3061787fce93b9740ff22ea/docs/README.pdf"　target="_blank" rel="noopener noreferrer">PDF</a></td>
-			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/tree/main/docs"　target="_blank" rel="noopener noreferrer">Markdown</a></td>
+      <td align="left"><a href="https://shintaro-abe.github.io/Shintaro-Abe/" target="_blank" rel="noopener noreferrer">GitHub Pages</a></td>
+			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/4402947f28d59d60b3061787fce93b9740ff22ea/docs/README.pdf" target="_blank" rel="noopener noreferrer">PDF</a></td>
+			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/tree/main/docs" target="_blank" rel="noopener noreferrer">Markdown</a></td>
     </tr>
   </tbody>
 </table>
