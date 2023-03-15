@@ -1,37 +1,62 @@
 # profile
 
-## 取得資格
+## 基本情報
 
-### AWS認定
+<table>
+  <tbody>
+    <tr>
+      <td align="left">名前</td>
+      <td align="left">阿部　慎太郎</td>
+    </tr>
+    <tr>
+      <td align="left">技術記事</td>
+      <td align="left"><a href="https://zenn.dev/lifewithpiano">Zenn</a></td>
+    </tr>
+  </tbody>
+</table>
 
-| 資格 | スコア |
-| :---: | :---: |
-| [CLF](#clf-2023年1月14日取得) |  825 |
-| [SAA](#saa-2023年2月4日取得) | 777|
-| [DVA](#dva-2023年2月27日取得) | 804 |
+## 職務履歴書
 
-#### CLF (2023年1月14日取得)
+<table>
+  <tbody>
+    <tr>
+      <td align="left"><a href="https://shintaro-abe.github.io/Shintaro-Abe/">GitHub Pages</a></td>
+			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/4402947f28d59d60b3061787fce93b9740ff22ea/docs/README.pdf">PDF</a></td>
+			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/tree/main/docs">Markdown</a></td>
+    </tr>
+  </tbody>
+</table>
 
-![image](https://github.com/Shintaro-Abe/Shintaro-Abe/blob/8137a1590c09a4b2be9eae880f7068c6693f90b4/aws-certified-cloud-practitioner.png)         
+## AWS認定
 
-[バッジ](https://www.credly.com/badges/dff9dcb0-4448-4827-bb3b-3d11e9730721/public_url)        
-
-[証明書](https://github.com/Shintaro-Abe/Shintaro-Abe/blob/923965fbb50e06533e9a767b3a2f9fa5f450abc6/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
-
-
-#### SAA (2023年2月4日取得)
-
-![image](https://github.com/Shintaro-Abe/Shintaro-Abe/blob/8137a1590c09a4b2be9eae880f7068c6693f90b4/aws-certified-solutions-architect-associate.png)
-
-[バッジ](https://www.credly.com/badges/acd6ba7b-aa72-47d0-b553-52f6713a455d/public_url) 
-
-[証明書](https://github.com/Shintaro-Abe/Shintaro-Abe/blob/8bb3ab7c86e2c4f3e33801f89a8c651390cc8def/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
-
-
-#### DVA (2023年2月27日取得)
-
-![image](https://github.com/Shintaro-Abe/Shintaro-Abe/blob/8137a1590c09a4b2be9eae880f7068c6693f90b4/aws-certified-developer-associate.png)
-
-[バッジ](https://www.credly.com/badges/0a5c704d-f923-438b-8e24-dbb55b816121/public_url) 
-
-[証明書](https://github.com/Shintaro-Abe/Shintaro-Abe/blob/3d434e7f1217a132ca39b3aee7fd1df50c7defa7/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf)
+<table>
+  <thead>
+    <tr>
+      <th align="left">資格</th>
+      <th align="left">取得日</th>
+      <th align="left">認定証明書</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">Cloud Practitioner</td>
+      <td align="left">2023年1月14日</td>
+      <td align="left"><a href="https://github.com/Shintaro-Abe/curriculum-vitae/blob/9f77e588411b462f7747c91992d12ae8eff38ae6/AWScertificate/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td align="left">Solutions Architect Associate</td>
+      <td align="left">2023年2月4日</td>
+      <td align="left"><a href="https://github.com/Shintaro-Abe/curriculum-vitae/blob/750297fc09bf6af0445311232e5a00755c7344f2/AWScertificate/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf">PDF</a></td>
+    </tr>
+    <tr>
+      <td align="left">Developer Associate</td>
+      <td align="left">2023年2月27日</td>
+      <td align="left"><a href="https://github.com/Shintaro-Abe/curriculum-vitae/blob/750297fc09bf6af0445311232e5a00755c7344f2/AWScertificate/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf">PDF</a></td>
+    </tr>    
+    <tr>
+      <td align="left">SysOps Administrator Associate</td>
+      <td align="left">2023年3月11日</td>
+      <td align="left"><a href="https://github.com/Shintaro-Abe/curriculum-vitae/blob/750297fc09bf6af0445311232e5a00755c7344f2/AWScertificate/AWS%20Certified%20SysOps%20Administrator%20-%20Associate%20certificate.pdf">PDF</a></td>
+    </tr> 
+  </tbody>
+</table>
