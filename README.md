@@ -27,6 +27,8 @@ AWSをメインに学習中。
 
 ## 職務履歴書
 
+<a href="https://shintaro-abe.github.io/Shintaro-Abe/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>
+
 <table>
   <tbody>
     <tr>
