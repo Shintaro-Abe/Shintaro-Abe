@@ -54,6 +54,11 @@
       <td align="left">2023年3月11日</td>
       <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/b22763b998f501a96f87238974d24079ff092a1a/certificates/AWS%20Certified%20SysOps%20Administrator%20-%20Associate%20certificate.pdf">PDF</a></td>
     </tr> 
+    <tr>
+      <td align="left">DevOps Engineer Professional</td>
+      <td align="left">2023年4月1日</td>
+      <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/dcf479e5764ae68a8492c30b95110d1e0077f4c9/certificates/AWS%20Certified%20DevOps%20Engineer%20-%20Professional%20certificate.pdf">PDF</a></td>
+    </tr> 
   </tbody>
 </table>
 
