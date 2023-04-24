@@ -28,7 +28,7 @@ AWSをメインに学習中。使用した構成管理ツール。
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 <img src="https://img.shields.io/badge/serverless-%23FD5750.svg?&style=for-the-badge&logo=serverless&logoColor=white" />
-<img src="https://img.shields.io/badge/-Zenn-EEE.svg?logo=zenn&style=flat">
+<img src="https://img.shields.io/badge/-Zenn-EEE.svg?logo=zenn&style=for-the-badge">
 
 ## 職務履歴書
 
