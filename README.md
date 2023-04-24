@@ -1,5 +1,5 @@
 # profile
-[![](https://komarev.com/ghpvc/?username=your-github-Shintaro-Abe&color=orange&style=flat-square)](https://www.sejuku.net/blog/77385)
+[![](https://komarev.com/ghpvc/?username=your-github-Shintaro-Abe&color=orange&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter)
 ## 基本情報
 
 <table>
