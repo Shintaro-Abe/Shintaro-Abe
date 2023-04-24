@@ -28,16 +28,13 @@ AWSをメインに学習中。使用した構成管理ツール。
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=Ansible&style=flat-square)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC.svg?logo=Terraform&style=flat-square)
 <img src="https://img.shields.io/badge/-Serverless_Framework-FD5750.svg?logo=Serverless&style=flat-square&logoColor=white">
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&style=flat)
-
 
 ## 職務履歴書
 
 <table>
   <tbody>
     <tr>
-      <td align="left"><a href="https://shintaro-abe.github.io/Shintaro-Abe/"><img src="https://img.shields.io/badge/github_pages-121013?style=flat-square&logo=github&logoColor=white"></a></td>
+      <td align="left"><a href="https://shintaro-abe.github.io/Shintaro-Abe/"><img src="https://img.shields.io/badge/Github_Pages-121013?style=flat-square&logo=github&logoColor=white"></a></td>
 			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/82a17a0cc5bdefc74fb04f1aaf1006a464f39f68/docs/README.pdf">PDF</a></td>
 			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/tree/main/docs"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&style=flat-square"></a></td>
     </tr>
