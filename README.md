@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td align="left">SNS</td>
-      <td align="left"><a href="https://twitter.com/hinono2thinono2"><img src="https://img.shields.io/twitter/follow/hinono2thinono2?style=flat-square"></a></td>
+      <td align="left"><a href="https://twitter.com/hinono2thinono2"><img src="https://img.shields.io/badge/Follow_@hinono2thinono2-1DA1F2.svg?logo=Twitter&style=flat-square"></a></td>
     </tr>
   </tbody>
 </table>
