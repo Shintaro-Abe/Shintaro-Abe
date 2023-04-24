@@ -27,7 +27,7 @@ AWSをメインに学習中。使用した構成管理ツール。
 
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=Ansible&style=flat-square)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC.svg?logo=Terraform&style=flat-square)
-<img src="https://img.shields.io/badge/-Serverless_Framework-FD5750.svg?logo=Serverless&style=flat-square">
+<img src="https://img.shields.io/badge/-Serverless_Framework-FD5750.svg?logo=Serverless&style=flat-square&logoColor=white">
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&style=flat)
 
