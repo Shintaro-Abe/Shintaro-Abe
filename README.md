@@ -29,7 +29,7 @@ AWSをメインに学習中。使用した構成管理ツール。
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 <img src="https://img.shields.io/badge/serverless-%23FD5750.svg?&style=for-the-badge&logo=serverless&logoColor=white" />
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&style-flat)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 ## 職務履歴書
