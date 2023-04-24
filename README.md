@@ -34,14 +34,14 @@ AWSをメインに学習中。使用した構成管理ツール。
 <table>
   <tbody>
     <tr>
-      <td align="left"><a href="https://shintaro-abe.github.io/Shintaro-Abe/"><img src="https://img.shields.io/badge/Github_Pages-121013?style=flat-square&logo=github&logoColor=white"></a></td>
+      <td align="left"><a href="https://shintaro-abe.github.io/Shintaro-Abe/"><img src="https://img.shields.io/badge/GitHub_Pages-121013?style=flat-square&logo=github&logoColor=white"></a></td>
 			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/82a17a0cc5bdefc74fb04f1aaf1006a464f39f68/docs/README.pdf">PDF</a></td>
 			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/tree/main/docs"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&style=flat-square"></a></td>
     </tr>
   </tbody>
 </table>
 
-## AWS認定
+## AWS認定資格
 
 <table>
   <thead>
