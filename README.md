@@ -18,7 +18,7 @@
     </tr> 
     <tr>
       <td align="left">技術記事</td>
-      <td align="left"><a href="https://zenn.dev/lifewithpiano">Zenn</a></td>
+      <td align="left"><a href="https://zenn.dev/lifewithpiano"><img src="https://img.shields.io/badge/zenn-%233EA8FF.svg?&style=for-the-badge&logo=zenn&logoColor=white" /></a></td>
     </tr>
   </tbody>
 </table>
