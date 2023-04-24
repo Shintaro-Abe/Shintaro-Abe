@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td align="left">SNS</td>
-      <td align="left"><a href="https://twitter.com/hinono2thinono2"><img src="https://img.shields.io/badge/twitter/follow/:hinono2thinono2?label=Follow"></a></td>
+      <td align="left"><a href="https://twitter.com/hinono2thinono2"><img src="https://img.shields.io/badge/twitter/follow/:hinono2thinono2?label=Follow&style=social"></a></td>
     </tr>
   </tbody>
 </table>
@@ -32,7 +32,6 @@ AWSをメインに学習中。使用した構成管理ツール。
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=Ansible&style=flat-square)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC.svg?logo=Terraform&style=flat-square)
 <img src="https://img.shields.io/badge/-Serverless_Framework-FD5750.svg?logo=Serverless&style=flat-square&logoColor=white">
-<img src="https://commons.wikimedia.org/wiki/File:PDF_file_icon.svg">
 
 ## 職務履歴書
 
