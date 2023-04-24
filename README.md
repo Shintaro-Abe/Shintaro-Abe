@@ -18,7 +18,7 @@
     </tr> 
     <tr>
       <td align="left">技術記事</td>
-      <td align="left"><a href="https://zenn.dev/lifewithpiano"><img src="https://img.shields.io/badge/zenn-%233EA8FF.svg?&style=for-the-badge&logo=zenn&logoColor=white" /></a></td>
+      <td align="left"><a href="https://zenn.dev/lifewithpiano"><img src="https://img.shields.io/badge/-Zenn-3EA8FF.svg?logo=Zenn&style=flat-square&logoColor=white"></a></td>
     </tr>
   </tbody>
 </table>
@@ -28,7 +28,7 @@ AWSをメインに学習中。使用した構成管理ツール。
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 <img src="https://img.shields.io/badge/serverless-%23FD5750.svg?&style=for-the-badge&logo=serverless&logoColor=white" />
-<img src="https://img.shields.io/badge/-Zenn-3EA8FF.svg?logo=Zenn&style=flat-square&logoColor=white">
+
 ## 職務履歴書
 
 <table>
