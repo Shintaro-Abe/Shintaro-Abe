@@ -20,6 +20,10 @@
       <td align="left">技術記事</td>
       <td align="left"><a href="https://zenn.dev/lifewithpiano"><img src="https://img.shields.io/badge/-Zenn-3EA8FF.svg?logo=Zenn&style=flat-square&logoColor=white"></a></td>
     </tr>
+    <tr>
+      <td align="left">SNS</td>
+      <td align="left"><a href="https://twitter.com/hinono2thinono2"><img src="https://img.shields.io/badge/twitter/follow/:hinono2thinono2?label=Follow-Twitter-1DA1F2.svg?logo=Twitter&style=flat-square&logoColor=white"></a></td>
+    </tr>
   </tbody>
 </table>
 
