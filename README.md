@@ -1,6 +1,5 @@
 # profile
-![](https://komarev.com/ghpvc/?username=your-github-Shintaro-Abe&color=orange&style=flat-square)(https://ucsbcarpentry.github.io/R-markdown/04-links-images-tables/index.html)
-
+[![](https://komarev.com/ghpvc/?username=your-github-Shintaro-Abe&color=orange&style=flat-square)](https://www.sejuku.net/blog/77385)
 ## 基本情報
 
 <table>
