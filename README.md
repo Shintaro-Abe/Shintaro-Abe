@@ -1,3 +1,5 @@
+<img align="center" alt="Shintaro_Abe" src="./image/Shintaro Abe.png" width="100%"/>
+
 # profile
 ![](https://komarev.com/ghpvc/?username=your-github-Shintaro-Abe&color=orange&style=flat-square)
 ## 基本情報
