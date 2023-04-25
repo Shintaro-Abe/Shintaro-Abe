@@ -1,5 +1,5 @@
 <div align="center">
-<img src="images/Shintaro Abe.png" alt="Shintaro_Abe" width="60%">
+<img src="images/Shintaro Abe.png" alt="Shintaro_Abe" width="100%">
 </div>
 
 # profile
