@@ -93,3 +93,4 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
+<a class="twitter-timeline" href="https://twitter.com/hinono2thinono2?ref_src=twsrc%5Etfw">Tweets by hinono2thinono2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
