@@ -115,3 +115,5 @@ href="https://twitter.com/hinono2thinono2?ref_src=twsrc%5Etfw">BigQuery</a>
 <a class="twitter-timeline" href="https://twitter.com/hinono2thinono2">Tweets by hinono2thinono2</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Tweets by hinono2thinono2](https://twitter.com/hinono2thinono2?ref_src=twsrc%5Etfw) 
+
+<a class="twitter-timeline" href="https://twitter.com/hinono2thinono2?ref\_src=twsrc%5Etfw">Tweets by hinono2thinono2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
