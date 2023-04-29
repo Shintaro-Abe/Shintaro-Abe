@@ -92,3 +92,7 @@ AWSをメインに学習中。使用した構成管理ツール。
     </tr> 
   </tbody>
 </table>
+
+### <img src="images/Shintaro Abe.png" alt="Shintaro_Abe" width="100%">
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
