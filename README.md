@@ -94,6 +94,6 @@ AWSをメインに学習中。使用した構成管理ツール。
 </table>
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!-- feed start -->
 https://zenn.dev/lifewithpiano/feed
-<!-- BLOG-POST-LIST:END -->
+<!-- feed end -->
