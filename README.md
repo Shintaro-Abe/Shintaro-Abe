@@ -92,3 +92,5 @@ AWSをメインに学習中。使用した構成管理ツール。
     </tr> 
   </tbody>
 </table>
+
+https://zenn.dev/lifewithpiano/feed
