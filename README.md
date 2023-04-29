@@ -107,15 +107,3 @@ href="https://twitter.com/hinono2thinono2?ref_src=twsrc%5Etfw">BigQuery</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>
-
-<blockquote class=”twitter-tweet” data-conversation=”none”><a href=”https://twitter.com/hinono2thinono2”></a></blockquote>
-
-<a class="twitter-timeline" href="https://twitter.com/hinono2thinono2?ref_src=twsrc%5Etfw">Tweets by hinono2thinono2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a class="twitter-timeline" href="https://twitter.com/hinono2thinono2">Tweets by hinono2thinono2</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[Tweets by hinono2thinono2](https://twitter.com/hinono2thinono2?ref_src=twsrc%5Etfw) 
-
-<a class="twitter-timeline" href="https://twitter.com/hinono2thinono2?ref\_src=twsrc%5Etfw">Tweets by hinono2thinono2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Zennへ記事投稿しました。 <br>今回はCodeDeploy。<br>ご一読いただければ幸いです。✍️👀<br><br>CodeDeployでEC2にアプリケーションをデプロイ 【CodeFamily Practices 3/7】｜Shintaro Abe <a href="https://t.co/lQj2Hmjn1v">https://t.co/lQj2Hmjn1v</a> <a href="https://twitter.com/hashtag/zenn?src=hash&amp;ref_src=twsrc%5Etfw">#zenn</a> <a href="https://twitter.com/hashtag/AWS?src=hash&amp;ref_src=twsrc%5Etfw">#AWS</a></p>&mdash; Aちゃん (@hinono2thinono2) <a href="https://twitter.com/hinono2thinono2/status/1652164033330696193?ref_src=twsrc%5Etfw">April 29, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
