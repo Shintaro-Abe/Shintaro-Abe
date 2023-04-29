@@ -93,4 +93,9 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
-https://zenn.dev/lifewithpiano/feed
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="/https://zenn.dev/lifewithpiano/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zenn.dev/lifewithpiano/feed" height="30" width="40" /></a>
+</p>
