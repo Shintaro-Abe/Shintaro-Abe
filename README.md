@@ -93,4 +93,19 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Twitter Moment</h1>
+<a class="twitter-moment" 
+data-lang="ja" 
+data-limit="2"
+data-width="600"
+data-lang="ja"
+data-dnt="true"   
+href="https://twitter.com/hinono2thinono2?ref_src=twsrc%5Etfw">BigQuery</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</body>
+</html>
+
 <a class="twitter-timeline" href="https://twitter.com/hinono2thinono2?ref_src=twsrc%5Etfw">Tweets by hinono2thinono2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
