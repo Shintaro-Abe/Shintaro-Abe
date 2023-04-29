@@ -93,6 +93,6 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
-### <img src="images/logo.png" alt="Shintaro_Abe" width="100%">
+### <img src="images/logo.png" alt="Shintaro_Abe" width="10%" color=white>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
