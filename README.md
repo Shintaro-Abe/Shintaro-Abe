@@ -33,6 +33,16 @@
 
 AWSをメインに学習中。使用した構成管理ツール。
 
+<table>
+  <tbody>
+    <tr>
+      <td align="left"><a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/-Ansible-EE0000.svg?logo=Ansible&style=flat-square"></a></td>
+			<td align="left"><a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/-Terraform-7B42BC.svg?logo=Terraform&style=flat-square"></a></td>
+			<td align="left"><a href="https://www.serverless.com/framework"><img src="https://img.shields.io/badge/-Serverless_Framework-FD5750.svg?logo=Serverless&style=flat-square&logoColor=white"></a></td>
+    </tr>
+  </tbody>
+</table>
+
 [![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=Ansible&style=flat-square)](https://www.ansible.com/)
 [![Terraform](https://img.shields.io/badge/-Terraform-7B42BC.svg?logo=Terraform&style=flat-square)](https://www.terraform.io/)
 <a href="https://www.serverless.com/framework"><img src="https://img.shields.io/badge/-Serverless_Framework-FD5750.svg?logo=Serverless&style=flat-square&logoColor=white"></a>
@@ -94,10 +104,15 @@ AWSをメインに学習中。使用した構成管理ツール。
 </table>
 
 ## SNS
-<a href="https://twitter.com/hinono2thinono2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hinono2thinono2" height="30" width="40" /></a>
-<a href="https://fb.com/shintaro.abe.752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shintaro.abe.752" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shintaro abe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shintaro abe" height="30" width="40" /></a>
-
+<table>
+  <tbody>
+    <tr>
+      <td align="left"><a href="https://twitter.com/hinono2thinono2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hinono2thinono2" height="30" width="40" /></a></td>
+			<td align="left"><a href="https://fb.com/shintaro.abe.752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shintaro.abe.752" height="30" width="40" /></a></td>
+			<td align="left"><a href="https://linkedin.com/in/shintaro abe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shintaro abe" height="30" width="40" /></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## <img src="images/logo-only.svg" alt="Shintaro_Abe" width="3%"> Zenn 新着記事
 
