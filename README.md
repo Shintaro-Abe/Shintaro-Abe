@@ -39,7 +39,7 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
-## <img src="https://media.giphy.com/media/le2np5ox1TrUcxyudO/giphy.gif" width="4%"> 職務履歴書
+## <img src="https://media.giphy.com/media/YkyksHRWDaWmx9N7aT/giphy.gif" width="5%"> 職務履歴書
 
 <table>
   <tbody>
@@ -51,7 +51,7 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
-## AWS認定資格 
+## <img src="images/amazonaws-color.svg" alt="Shintaro_Abe" width="5%"> AWS認定資格 
 
 <table>
   <thead>
