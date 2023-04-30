@@ -93,6 +93,13 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
+<h3 align="left">SNS:</h3>
+<p align="left">
+<a href="https://twitter.com/hinono2thinono2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hinono2thinono2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shintaro abe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shintaro abe" height="30" width="40" /></a>
+<a href="https://fb.com/shintaro.abe.752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shintaro.abe.752" height="30" width="40" /></a>
+<a href="/https://zenn.dev/lifewithpiano/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zenn.dev/lifewithpiano/feed" height="30" width="40" /></a>
+</p>
 ## <img src="images/logo-only.svg" alt="Shintaro_Abe" width="3%"> Zenn 新着記事
 
 <!-- BLOG-POST-LIST:START -->
