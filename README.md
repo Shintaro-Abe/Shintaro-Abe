@@ -39,7 +39,7 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
-## <img src="https://giphy.com/stickers/piano-jDa4r7bK1k00g/giphy.gif" width="3%">職務履歴書
+## <img src="https://giphy.com/gifs/piano-jDa4r7bK1k00g" width="3%"> 職務履歴書
 
 <table>
   <tbody>
