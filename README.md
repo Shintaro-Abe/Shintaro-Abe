@@ -49,7 +49,7 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
-## AWS認定資格
+## AWS認定資格 <img src="https://d0.awsstatic.com/logos/powered-by-aws-white.png" width="5%">
 
 <table>
   <thead>
