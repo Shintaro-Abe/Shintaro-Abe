@@ -44,7 +44,7 @@ AWSをメインに学習中。使用した構成管理ツール。
   <tbody>
     <tr>
       <td align="left"><a href="https://twitter.com/hinono2thinono2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hinono2thinono2" height="30" width="40" /></a></td>
-			<td align="left"><a href="https://fb.com/shintaro.abe.752" target="blank"><img align="center" src="images/f_logo_RGB-Blue_1024.png" alt="shintaro.abe.752" height="40" width="40" /></a></td>
+			<td align="left"><a href="https://fb.com/shintaro.abe.752" target="blank"><img align="center" src="images/f_logo_RGB-Blue_1024.png" alt="shintaro.abe.752" height="35" width="35" /></a></td>
 			<td align="left"><a href="https://www.linkedin.com/in/shintaro-abe-2860b1274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shintaro abe" height="30" width="40" /></a></td>
     </tr>
   </tbody>
