@@ -4,7 +4,7 @@
 
 # profile
 ![](https://komarev.com/ghpvc/?username=your-github-Shintaro-Abe&color=orange&style=flat-square)
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> 基本情報
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> 基本情報
 
 <table>
   <tbody>
@@ -49,7 +49,7 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
-## AWS認定資格    <img src="https://d0.awsstatic.com/logos/powered-by-aws-white.png" width="10%">
+## AWS認定資格    <img src="https://d0.awsstatic.com/logos/powered-by-aws-white.png" width="7%">
 
 <table>
   <thead>
