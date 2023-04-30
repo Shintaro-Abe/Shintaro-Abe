@@ -39,6 +39,17 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
+## <img src="https://media.giphy.com/media/YkyksHRWDaWmx9N7aT/giphy.gif" width="5%"> SNS
+<table>
+  <tbody>
+    <tr>
+      <td align="left"><a href="https://twitter.com/hinono2thinono2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hinono2thinono2" height="30" width="40" /></a></td>
+			<td align="left"><a href="https://fb.com/shintaro.abe.752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shintaro.abe.752" height="30" width="40" /></a></td>
+			<td align="left"><a href="https://www.linkedin.com/in/shintaro-abe-2860b1274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shintaro abe" height="30" width="40" /></a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## <img src="https://media.giphy.com/media/YkyksHRWDaWmx9N7aT/giphy.gif" width="5%"> 職務履歴書
 
 <table>
@@ -92,17 +103,6 @@ AWSをメインに学習中。使用した構成管理ツール。
       <td align="left">2023年4月15日</td>
       <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/324870a261a6e81e667c33303d158398fa43831c/certificates/AWS%20Certified%20Solutions%20Architect%20-%20Professional%20certificate.pdf"><img src="https://img.shields.io/badge/PDF-red.svg?style=flat-square"></a></td>
     </tr> 
-  </tbody>
-</table>
-
-## <img src="https://media.giphy.com/media/YkyksHRWDaWmx9N7aT/giphy.gif" width="5%"> SNS
-<table>
-  <tbody>
-    <tr>
-      <td align="left"><a href="https://twitter.com/hinono2thinono2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hinono2thinono2" height="30" width="40" /></a></td>
-			<td align="left"><a href="https://fb.com/shintaro.abe.752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shintaro.abe.752" height="30" width="40" /></a></td>
-			<td align="left"><a href="https://www.linkedin.com/in/shintaro-abe-2860b1274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shintaro abe" height="30" width="40" /></a></td>
-    </tr>
   </tbody>
 </table>
 
