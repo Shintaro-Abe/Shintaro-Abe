@@ -98,7 +98,7 @@ AWSをメインに学習中。使用した構成管理ツール。
 <!-- BLOG-POST-LIST:START -->
 - [CodeDeployでEC2にアプリケーションをデプロイ 【CodeFamily Practices 3/7】](https://zenn.dev/lifewithpiano/articles/codedeploy_practice)
 - [CodeBuildでビルドプロジェクトを作ってみよう 【CodeFamily Practices 2/7】](https://zenn.dev/lifewithpiano/articles/codebuild_practice)
-- [AWS CodeCommitとローカル環境の連携 【CodeFamily Practices 1/7】](https://zenn.dev/lifewithpiano/articles/codecommit_practice)
+- [CodeCommitとローカル環境の連携 【CodeFamily Practices 1/7】](https://zenn.dev/lifewithpiano/articles/codecommit_practice)
 - [Terraformの基本的な使い方](https://zenn.dev/lifewithpiano/articles/terraform_practice2304)
 - [Serverless Frameworkの基本的な使い方](https://zenn.dev/lifewithpiano/articles/serverlessframework2304)
 <!-- BLOG-POST-LIST:END -->
