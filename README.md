@@ -95,7 +95,7 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
-## SNS
+## <img src="https://media0.giphy.com/media/jDa4r7bK1k00g/giphy.gif" width="4%"> SNS
 <table>
   <tbody>
     <tr>
