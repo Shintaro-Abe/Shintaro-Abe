@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N0GEDK2MPN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N0GEDK2MPN');
+</script>
+
 <div align="center">
 <img src="images/Shintaro Abe.png" alt="Shintaro_Abe" width="100%">
 </div>
