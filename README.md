@@ -96,12 +96,12 @@ AWSをメインに学習中。使用した構成管理ツール。
     <tr>
       <td align="left">DevOps Engineer Professional</td>
       <td align="left">2023年4月1日</td>
-      <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/dcf479e5764ae68a8492c30b95110d1e0077f4c9/certificates/AWS%20Certified%20DevOps%20Engineer%20-%20Professional%20certificate.pdf"><img src="https://img.shields.io/badge/PDF-66CCCC.svg?style=flat-square"></a></td>
+      <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/dcf479e5764ae68a8492c30b95110d1e0077f4c9/certificates/AWS%20Certified%20DevOps%20Engineer%20-%20Professional%20certificate.pdf"><img src="https://img.shields.io/badge/PDF-00CCCC.svg?style=flat-square"></a></td>
     </tr> 
     <tr>
       <td align="left">Solutions Architect Professional</td>
       <td align="left">2023年4月15日</td>
-      <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/324870a261a6e81e667c33303d158398fa43831c/certificates/AWS%20Certified%20Solutions%20Architect%20-%20Professional%20certificate.pdf"><img src="https://img.shields.io/badge/PDF-66CCCC.svg?style=flat-square"></a></td>
+      <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/324870a261a6e81e667c33303d158398fa43831c/certificates/AWS%20Certified%20Solutions%20Architect%20-%20Professional%20certificate.pdf"><img src="https://img.shields.io/badge/PDF-00CCCC.svg?style=flat-square"></a></td>
     </tr> 
   </tbody>
 </table>
