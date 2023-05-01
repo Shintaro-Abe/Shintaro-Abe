@@ -62,7 +62,7 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
-## <img src="images/AWS-Dark.svg" alt="Shintaro_Abe" width="10%"> AWS認定資格 
+## <img src="images/AWS-Dark.svg" alt="Shintaro_Abe" width="4%"> AWS認定資格 
 
 <table>
   <thead>
