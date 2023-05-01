@@ -34,7 +34,7 @@ AWSをメインに学習中。使用した構成管理ツール。
     <tr>
       <td align="left"><a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/-Ansible-EE0000.svg?logo=Ansible&style=flat-square"></a></td>
 			<td align="left"><a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/-Terraform-7B42BC.svg?logo=Terraform&style=flat-square"></a></td>
-			<td align="left"><a href="https://www.serverless.com/framework"><img src="https://img.shields.io/badge/-Serverless_Framework-FD5750.svg?logo=Serverless&style=flat-square&logoColor=white" width="5%"></a></td>
+			<td align="left"><a href="https://www.serverless.com/framework"><img src="https://img.shields.io/badge/-Serverless_Framework-FD5750.svg?logo=Serverless&style=flat-square&logoColor=white" width="200%"></a></td>
     </tr>
   </tbody>
 </table>
