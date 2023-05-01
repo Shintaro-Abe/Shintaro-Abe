@@ -74,7 +74,7 @@ AWSをメインに学習中。使用した構成管理ツール。
   </thead>
   <tbody>
     <tr>
-      <td align="left"><span style="color: red; ">Cloud Practitioner</span></td>
+      <td align="left">&color(#ffffff, #8abe00) {Cloud Practitioner}</td>
       <td align="left">2023年1月14日</td>
       <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/b22763b998f501a96f87238974d24079ff092a1a/certificates/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf"><img src="https://img.shields.io/badge/PDF-696969.svg?style=flat-square"></a></td>
     </tr>
