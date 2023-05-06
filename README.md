@@ -56,7 +56,7 @@ AWSをメインに学習中。使用した構成管理ツール。
   <tbody>
     <tr>
       <td align="left"><a href="https://shintaro-abe.github.io/Shintaro-Abe/"><img src="https://img.shields.io/badge/GitHub_Pages-121013?style=flat-square&logo=github&logoColor=white"></a></td>
-			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/c9a334a29b4a09ae703c823205ce74fe91859e5a/docs/README.pdf"><img src="https://img.shields.io/badge/View-PDF-red.svg?style=flat-square"></a> <a href="https://github.com/Shintaro-Abe/Shintaro-Abe/raw/82a17a0cc5bdefc74fb04f1aaf1006a464f39f68/docs/README.pdf"><img src="https://img.shields.io/badge/Download-PDF-red.svg?style=flat-square"></a></td>
+			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/086764f36d9c38892e17d501a011ca67b6230c18/docs/README.pdf"><img src="https://img.shields.io/badge/View-PDF-red.svg?style=flat-square"></a> <a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/c9a334a29b4a09ae703c823205ce74fe91859e5a/docs/README.pdf#:~:text=Raw%20file%20content-,Download,-Copy%20path"><img src="https://img.shields.io/badge/Download-PDF-red.svg?style=flat-square"></a></td>
 			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/tree/main/docs"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&style=flat-square"></a></td>
     </tr>
   </tbody>
