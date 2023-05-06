@@ -64,6 +64,11 @@
       <td align="left">2023年4月15日</td>
       <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/324870a261a6e81e667c33303d158398fa43831c/certificates/AWS%20Certified%20Solutions%20Architect%20-%20Professional%20certificate.pdf">PDF</a></td>
     </tr> 
+    <tr>
+      <td align="left">SAP on AWS Specialty</td>
+      <td align="left">2023年5月6日</td>
+      <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/39df6168f6b94589bfeee78d062a0e35faffe0c2/certificates/AWS%20Certified_%20SAP%20on%20AWS%20-%20Specialty%20certificate.pdf">PDF</a></td>
+    </tr> 
   </tbody>
 </table>
 
