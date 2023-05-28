@@ -56,7 +56,7 @@ AWSをメインに学習中。使用した構成管理ツール。
   <tbody>
     <tr>
       <td align="left"><a href="https://shintaro-abe.github.io/Shintaro-Abe/"><img src="https://img.shields.io/badge/GitHub_Pages-121013?style=flat-square&logo=github&logoColor=white"></a></td>
-			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/086764f36d9c38892e17d501a011ca67b6230c18/docs/README.pdf"><img src="https://img.shields.io/badge/View-PDF-red.svg?style=flat-square"></a> <a href="https://github.com/Shintaro-Abe/Shintaro-Abe/raw/086764f36d9c38892e17d501a011ca67b6230c18/docs/README.pdf"><img src="https://img.shields.io/badge/Download-PDF-red.svg?style=flat-square"></a></td>
+			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/f8f75b3c7c7ab1ad6a382ceb70afd95c38040291/docs/README.pdf"><img src="https://img.shields.io/badge/View-PDF-red.svg?style=flat-square"></a> <a href="https://github.com/Shintaro-Abe/Shintaro-Abe/raw/f8f75b3c7c7ab1ad6a382ceb70afd95c38040291/docs/README.pdf"><img src="https://img.shields.io/badge/Download-PDF-red.svg?style=flat-square"></a></td>
 			<td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/0041c0c6866690bb3d2736b2090e1f7aab8c7014/docs/README.md"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&style=flat-square"></a></td>
     </tr>
   </tbody>
@@ -111,7 +111,7 @@ AWSをメインに学習中。使用した構成管理ツール。
     <tr>
       <th align="left">Security Specialty</td>
       <td align="left">2023年5月27日</td>
-      <td align="center"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/398b5846d0c8c91a6946b2024af79bd30dd6cf0c/certificates/AWS%20Certified_%20SAP%20on%20AWS%20-%20Specialty%20certificate.pdf"><img src="https://img.shields.io/badge/PDF-6600CC.svg?style=flat-square"></a></td>
+      <td align="center"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/f8f75b3c7c7ab1ad6a382ceb70afd95c38040291/certificates/AWS%20Certified%20Security%20-%20Specialty%20certificate.pdf"><img src="https://img.shields.io/badge/PDF-6600CC.svg?style=flat-square"></a></td>
     </tr> 
   </tbody>
 </table>
