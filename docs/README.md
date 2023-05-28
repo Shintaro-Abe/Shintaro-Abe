@@ -69,6 +69,11 @@
       <td align="left">2023年5月6日</td>
       <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/39df6168f6b94589bfeee78d062a0e35faffe0c2/certificates/AWS%20Certified_%20SAP%20on%20AWS%20-%20Specialty%20certificate.pdf">PDF</a></td>
     </tr> 
+    <tr>
+      <td align="left">Security Specialty</td>
+      <td align="left">2023年5月27日</td>
+      <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/39df6168f6b94589bfeee78d062a0e35faffe0c2/certificates/AWS%20Certified_%20SAP%20on%20AWS%20-%20Specialty%20certificate.pdf">PDF</a></td>
+    </tr> 
   </tbody>
 </table>
 
