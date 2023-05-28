@@ -72,7 +72,7 @@
     <tr>
       <td align="left">Security Specialty</td>
       <td align="left">2023年5月27日</td>
-      <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/f8f75b3c7c7ab1ad6a382ceb70afd95c38040291/certificates/AWS%20Certified%20Security%20-%20Specialty%20certificate.pdf">PDF</a></td>
+      <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/4fa67799c2da1c0daca327f2ef6a37d5f76a30fd/certificates/AWS%20Certified%20Security%20-%20Specialty%20certificate.pdf">PDF</a></td>
     </tr> 
   </tbody>
 </table>
