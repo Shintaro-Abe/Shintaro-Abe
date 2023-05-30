@@ -81,37 +81,37 @@ AWSをメインに学習中。使用した構成管理ツール。
     <tr>
       <th align="left">Solutions Architect Associate</td>
       <td align="left">2023年2月4日</td>
-      <td align="center"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/b22763b998f501a96f87238974d24079ff092a1a/certificates/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf"><img src="https://img.shields.io/badge/PDF-0033FF.svg?style=flat-square"></a></td>
+      <td align="center"><a href="certificates/AWS Certified Solutions Architect - Associate certificate.pdf"><img src="https://img.shields.io/badge/PDF-0033FF.svg?style=flat-square"></a></td>
     </tr>
     <tr>
       <th align="left">Developer Associate</td>
       <td align="left">2023年2月27日</td>
-      <td align="center"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/b22763b998f501a96f87238974d24079ff092a1a/certificates/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf"><img src="https://img.shields.io/badge/PDF-0033FF.svg?style=flat-square"></a></td>
+      <td align="center"><a href="certificates/AWS Certified Developer - Associate certificate.pdf"><img src="https://img.shields.io/badge/PDF-0033FF.svg?style=flat-square"></a></td>
     </tr>    
     <tr>
       <th align="left">SysOps Administrator Associate</td>
       <td align="left">2023年3月11日</td>
-      <td align="center"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/b22763b998f501a96f87238974d24079ff092a1a/certificates/AWS%20Certified%20SysOps%20Administrator%20-%20Associate%20certificate.pdf"><img src="https://img.shields.io/badge/PDF-0033FF.svg?style=flat-square"></a></td>
+      <td align="center"><a href="certificates/AWS Certified SysOps Administrator - Associate certificate.pdf"><img src="https://img.shields.io/badge/PDF-0033FF.svg?style=flat-square"></a></td>
     </tr> 
     <tr>
       <th align="left">DevOps Engineer Professional</td>
       <td align="left">2023年4月1日</td>
-      <td align="center"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/dcf479e5764ae68a8492c30b95110d1e0077f4c9/certificates/AWS%20Certified%20DevOps%20Engineer%20-%20Professional%20certificate.pdf"><img src="https://img.shields.io/badge/PDF-00CCCC.svg?style=flat-square"></a></td>
+      <td align="center"><a href="certificates/AWS Certified DevOps Engineer - Professional certificate.pdf"><img src="https://img.shields.io/badge/PDF-00CCCC.svg?style=flat-square"></a></td>
     </tr> 
     <tr>
       <th align="left">Solutions Architect Professional</td>
       <td align="left">2023年4月15日</td>
-      <td align="center"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/324870a261a6e81e667c33303d158398fa43831c/certificates/AWS%20Certified%20Solutions%20Architect%20-%20Professional%20certificate.pdf"><img src="https://img.shields.io/badge/PDF-00CCCC.svg?style=flat-square"></a></td>
+      <td align="center"><a href="certificates/AWS Certified Solutions Architect - Professional certificate.pdf"><img src="https://img.shields.io/badge/PDF-00CCCC.svg?style=flat-square"></a></td>
     </tr> 
     <tr>
       <th align="left">SAP on AWS Specialty</td>
       <td align="left">2023年5月6日</td>
-      <td align="center"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/398b5846d0c8c91a6946b2024af79bd30dd6cf0c/certificates/AWS%20Certified_%20SAP%20on%20AWS%20-%20Specialty%20certificate.pdf"><img src="https://img.shields.io/badge/PDF-6600CC.svg?style=flat-square"></a></td>
+      <td align="center"><a href="certificates/AWS Certified_ SAP on AWS - Specialty certificate.pdf"><img src="https://img.shields.io/badge/PDF-6600CC.svg?style=flat-square"></a></td>
     </tr> 
     <tr>
       <th align="left">Security Specialty</td>
       <td align="left">2023年5月27日</td>
-      <td align="center"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/f8f75b3c7c7ab1ad6a382ceb70afd95c38040291/certificates/AWS%20Certified%20Security%20-%20Specialty%20certificate.pdf"><img src="https://img.shields.io/badge/PDF-6600CC.svg?style=flat-square"></a></td>
+      <td align="center"><a href="certificates/AWS Certified Security - Specialty certificate.pdf"><img src="https://img.shields.io/badge/PDF-6600CC.svg?style=flat-square"></a></td>
     </tr> 
   </tbody>
 </table>
