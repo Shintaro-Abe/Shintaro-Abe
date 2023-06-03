@@ -113,6 +113,11 @@ AWSをメインに学習中。使用した構成管理ツール。
       <td align="left">2023年5月27日</td>
       <td align="center"><a href="certificates/AWS Certified Security - Specialty certificate.pdf"><img src="https://img.shields.io/badge/PDF-6600CC.svg?style=flat-square"></a></td>
     </tr> 
+    <tr>
+      <th align="left">Database Specialty</td>
+      <td align="left">2023年6月3日</td>
+      <td align="center"><a href="certificates/AWS Certified Database - Specialty.pdf"><img src="https://img.shields.io/badge/PDF-6600CC.svg?style=flat-square"></a></td>
+    </tr> 
   </tbody>
 </table>
 
