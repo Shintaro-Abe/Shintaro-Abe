@@ -210,7 +210,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="left">20007年10月〜<br>2008年09月</td>
+      <td align="left">20007年10月〜<br>2008年9月</td>
       <td align="left">
         <ul>
           <li>アルバイトのシフト作成、勤怠管理を担当。</li>
@@ -236,7 +236,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="left">20007年10月〜<br>2008年09月</td>
+      <td align="left">20005年10月〜<br>2007年7月</td>
       <td align="left"><strong>ピアノ講師として勤務。</strong>
         <ul>
           <li>4歳〜70代まで、30名程度の生徒を担当。</li>
