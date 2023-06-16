@@ -79,6 +79,11 @@
       <td align="left">2023年6月3日</td>
       <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/b768098e7c516e6287c6db6a2f64e77951c91d0f/certificates/AWS%20Certified%20Database%20-%20Specialty%20certificate.pdf">PDF</a></td>
     </tr> 
+    <tr>
+      <td align="left">Data Analytics Specialty</td>
+      <td align="left">2023年6月16日</td>
+      <td align="left"><a href="https://github.com/Shintaro-Abe/Shintaro-Abe/blob/b768098e7c516e6287c6db6a2f64e77951c91d0f/certificates/AWS%20Certified%20Database%20-%20Specialty%20certificate.pdf">PDF</a></td>
+    </tr> 
   </tbody>
 </table>
 
