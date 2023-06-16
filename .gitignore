@@ -2,5 +2,5 @@ node_modules/
 
 yarn.lock
 package*
-gitpdf.sh
 push.sh
+gitpdf.sh
