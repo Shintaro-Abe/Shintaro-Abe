@@ -122,7 +122,12 @@ AWSをメインに学習中。使用した構成管理ツール。
       <th align="left">Data Analytics Specialty</td>
       <td align="left">2023年6月16日</td>
       <td align="center"><a href="certificates/AWS Certified Data Analytics - Specialty certificate.pdf"><img src="https://img.shields.io/badge/PDF-6600CC.svg?style=flat-square"></a></td>
-    </tr> 
+    </tr>
+    <tr>
+      <th align="left">Machine Learning Specialty</td>
+      <td align="left">2023年7月8日</td>
+      <td align="center"><a href="certificates/AWS Certified Machine Learning - Specialty certificate.pdf"><img src="https://img.shields.io/badge/PDF-6600CC.svg?style=flat-square"></a></td>
+    </tr>
   </tbody>
 </table>
 
