@@ -136,11 +136,11 @@ AWSをメインに学習中。使用した構成管理ツール。
 ## <img src="images/logo-only.svg" alt="Shintaro_Abe" width="3%"> Zenn 新着記事
 
 <!-- BLOG-POST-LIST:START -->
+- [CodePipelineとTerraformで、API Gatewayをビルド【CodeFamily Practices 7/7】](https://zenn.dev/lifewithpiano/articles/codefamily_terraform)
+- [CodePipelineとServerless Frameworkでビルド【CodeFamily Practices 6/7】](https://zenn.dev/lifewithpiano/articles/codefamily_serverless)
+- [CodePipelineとCloudFormationで、API Gatewayをビルド【CodeFamily Practices 5/7】](https://zenn.dev/lifewithpiano/articles/codefamily_cloudformation)
+- [CodePipelineでシンプルなパイプラインを構築してみた 【CodeFamily Practices 4/7】](https://zenn.dev/lifewithpiano/articles/codepipeline_practice)
 - [CodeDeployでEC2にアプリケーションをデプロイ 【CodeFamily Practices 3/7】](https://zenn.dev/lifewithpiano/articles/codedeploy_practice)
-- [CodeBuildでビルドプロジェクトを作ってみよう 【CodeFamily Practices 2/7】](https://zenn.dev/lifewithpiano/articles/codebuild_practice)
-- [CodeCommitとローカル環境の連携 【CodeFamily Practices 1/7】](https://zenn.dev/lifewithpiano/articles/codecommit_practice)
-- [Terraformの基本的な使い方](https://zenn.dev/lifewithpiano/articles/terraform_practice2304)
-- [Serverless Frameworkの基本的な使い方](https://zenn.dev/lifewithpiano/articles/serverlessframework2304)
 <!-- BLOG-POST-LIST:END -->
 
 
