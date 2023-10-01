@@ -130,6 +130,11 @@ AWSをメインに学習中。使用した構成管理ツール。
       <td align="left">2023年7月8日</td>
       <td align="center"><a href="certificates/AWS Certified Machine Learning - Specialty certificate.pdf"><img src="https://img.shields.io/badge/PDF-6600CC.svg?style=flat-square"></a></td>
     </tr>
+    <tr>
+      <th align="left">Advanced Networking Specialty</td>
+      <td align="left">2023年10月1日</td>
+      <td align="center"><a href="certificates/AWS Certified Advanced Networking - Specialty certificate.pdf"><img src="https://img.shields.io/badge/PDF-6600CC.svg?style=flat-square"></a></td>
+    </tr>
   </tbody>
 </table>
 
