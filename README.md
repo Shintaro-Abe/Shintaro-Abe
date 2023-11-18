@@ -39,6 +39,17 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
+その他学習中のツール。
+
+<table>
+  <tbody>
+    <tr>
+      <td align="left"><a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/-datadog-632CA6.svg?logo=Datadog&style=flat-square"></a></td>
+			<td align="left"><a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/-docker-2496ED.svg?logo=Docker&style=flat-square"></a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## <img src="https://media.giphy.com/media/YkyksHRWDaWmx9N7aT/giphy.gif" width="5%"> SNS
 <table>
   <tbody>
