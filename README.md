@@ -138,7 +138,7 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
-## Linux技術者認定試験 
+## <img src="images/linux_logo_icon_168243.png" alt="Linux" width="4%"> Linux技術者認定試験 
 
 <table>
   <thead>
