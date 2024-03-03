@@ -157,6 +157,25 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
+## <img src="images\ccna_sm.jpg" alt="Linux" width="4%"> Cisco認定試験 
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">資格</th>
+      <th align="left">取得日</th>
+      <th align="left">認定証明書</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th align="left">CCNA</td>
+      <td align="left">2024年3月3日</td>
+      <td align="center"><a href="certificates\Cisco Certified Network Associate certificate.pdf"><img src="https://img.shields.io/badge/PDF-696969.svg?style=flat-square"></a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## <img src="images/logo-only.svg" alt="Shintaro_Abe" width="3%"> Zenn 新着記事
 
 <!-- BLOG-POST-LIST:START -->
