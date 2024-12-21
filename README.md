@@ -161,7 +161,7 @@ AWSをメインに学習中。使用した構成管理ツール。
     </tr>
     <tr>
       <th align="left">LPIC-2</td>
-      <td align="left">2024年12月9日</td>
+      <td align="left">2024年12月21日</td>
       <td align="center"><a href="certificates/LPIC-2.pdf"><img src="https://img.shields.io/badge/PDF-0033FF.svg?style=flat-square"></a></td>
     </tr>    
   </tbody>
