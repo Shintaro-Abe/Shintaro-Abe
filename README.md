@@ -140,6 +140,16 @@ AWSをメインに学習中。使用した構成管理ツール。
       <td align="left">2024年6月8日</td>
       <td align="center"><a href="certificates\AWS Certified Data Engineer - Associate certificate.pdf"><img src="https://img.shields.io/badge/PDF-0033FF.svg?style=flat-square"></a></td>
     </tr>
+    <tr>
+      <th align="left">AI Practitioner</td>
+      <td align="left">2025年1月18日</td>
+      <td align="center"><a href="certificates\AWS Certified AI Practitioner certificate.pdf"><img src="https://img.shields.io/badge/PDF-696969.svg?style=flat-square"></a></td>
+    </tr>
+    <tr>
+      <th align="left">Machine Learning Engineer Associate</td>
+      <td align="left">2025年1月18日</td>
+      <td align="center"><a href="certificates\AWS Certified Machine Learning Engineer - Associate certificate.pdf"><img src="https://img.shields.io/badge/PDF-0033FF.svg?style=flat-square"></a></td>
+    </tr>
   </tbody>
 </table>
 
