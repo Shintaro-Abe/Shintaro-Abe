@@ -175,6 +175,12 @@ AWSをメインに学習中。使用した構成管理ツール。
       <td align="center"><a href="certificates/LPIC-2.pdf"><img src="https://img.shields.io/badge/PDF-0033FF.svg?style=flat-square"></a></td>
     </tr>    
   </tbody>
+    <tr>
+      <th align="left">LPIC-3</td>
+      <td align="left">2025年3月15日</td>
+      <td align="center"><a href="certificates/LPI-300.pdf"><img src="https://img.shields.io/badge/PDF-00CCCC.svg?style=flat-square"></a></td>
+    </tr>    
+  </tbody>  
 </table>
 
 ## <img src="images\ccna_sm.jpg" alt="Linux" width="4%"> Cisco認定試験 
