@@ -153,6 +153,24 @@ AWSをメインに学習中。使用した構成管理ツール。
   </tbody>
 </table>
 
+## <img src="images\Google Cloud.png" alt="Google Cloud" width="4%"> Google Cloud認定資格
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">資格</th>
+      <th align="left">取得日</th>
+      <th align="left">認定証明書</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th align="left">LPIC-1</td>
+      <td align="left">2023年12月9日</td>
+      <td align="center"><a href="certificates/GenerativeAILeader.pdf"><img src="https://img.shields.io/badge/PDF-696969.svg?style=flat-square"></a></td>
+    </tr> 
+</table>
+
 ## <img src="images/linux_logo_icon_168243.png" alt="Linux" width="4%"> Linux技術者認定試験 
 
 <table>
