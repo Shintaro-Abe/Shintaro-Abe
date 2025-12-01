@@ -165,8 +165,8 @@ AWSをメインに学習中。使用した構成管理ツール。
   </thead>
   <tbody>
     <tr>
-      <th align="left">LPIC-1</td>
-      <td align="left">2023年12月9日</td>
+      <th align="left">Generative AI Leader</td>
+      <td align="left">2025年11月30日</td>
       <td align="center"><a href="certificates/GenerativeAILeader.pdf"><img src="https://img.shields.io/badge/PDF-696969.svg?style=flat-square"></a></td>
     </tr> 
 </table>
